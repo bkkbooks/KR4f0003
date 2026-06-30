@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR4f0003/WYG/v1/juan/1
+seq: 1
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 乾隆二十三年六月十五日奉上諭近日偶閲樂善堂集縁初刻所存巻帙頗繁其中多有不甚惬心之句昔人云文章千古得失寸心朕非悔其少作博不恡情去留之名政以隨時删訂則今昔詣力所到端可藉以自騐其令内廷諸臣悉心校閲分擬應存應删簽貼進呈候朕裁酌重訂定本以付剞劂欽此
+  hash: sha256:d5fdd0ac3747a5e01eb897b8568400aadc252a8f660bcf7d8bf469ee2d961df5
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR4f0003_WYG_001-1a, image: WYG1300/WYG1300-0234c.png}
+metadata:
+  title: 御製樂善堂全集定本
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-25 00:27:54.217113'
+  juan_title: 上諭
+  source:
+    repository: kanripo
+    path: KR4f0003/KR4f0003_001.txt
+hash: sha256:81f271d51db0c49c25e84abafdd5f6674c379b8f329219473828e97a8c67eb30
