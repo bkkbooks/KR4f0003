@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 乾隆二十三年六月十五日奉上諭近日偶閲樂善堂集縁初刻所存巻帙頗繁其中多有不甚惬心之句昔人云文章千古得失寸心朕非悔其少作博不恡情去留之名政以隨時删訂則今昔詣力所到端可藉以自騐其令内廷諸臣悉心校閲分擬應存應删簽貼進呈候朕裁酌重訂定本以付剞劂欽此
-  hash: sha256:d5fdd0ac3747a5e01eb897b8568400aadc252a8f660bcf7d8bf469ee2d961df5
+  text: 乾隆二十三年六月十五日奉上諭近日偶閲樂善堂集緣初刻所存卷帙頗繁其中多有不甚愜心之句昔人云文章千古得失寸心朕非悔其少作博不吝情去留之名政以隨時刪訂則今昔詣力所到端可藉以自驗其令內廷諸臣悉心校閲分擬應存應刪簽貼進呈候朕裁酌重訂定本以付剞劂欽此
+  hash: sha256:2f2fadb4adcaa0576b6293badb8e9821699d643e4dd8d1459cd5fca35de9333c
   markers:
   - {type: page-break, offset: 0, content: '', id: KR4f0003_WYG_001-1a, image: WYG1300/WYG1300-0234c.png}
 metadata:
@@ -18,4 +18,4 @@ metadata:
   source:
     repository: kanripo
     path: KR4f0003/KR4f0003_001.txt
-hash: sha256:10d0f4e75e97c1891eb58cb5d55b22b1e81c22d8fdfff6d455c09a6f31d3d717
+hash: sha256:7a7a53e4d0f9ea2d37e5b204b6b5262813d2cabbccad894127c303ceb2b306af
