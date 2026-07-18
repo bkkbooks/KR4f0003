@@ -290,6 +290,7 @@ markers:
   - {type: 'kr:non-cjk', offset: 885, content: '-', id: KR4f0003_krp_019-bkkkrnonc2}
   - {type: 'kr:non-cjk', offset: 886, content: +, id: KR4f0003_krp_019-bkkkrnonc3}
   - {type: punctuation, offset: 886, content: (, id: KR4f0003_krp_019-bkkpn1}
+  - {type: voice, offset: 886, length: 2, name: note, id: n1}
   - {type: 'kr:non-cjk', offset: 887, content: '-', id: KR4f0003_krp_019-bkkkrnonc4}
   - {type: punctuation, offset: 888, content: ), id: KR4f0003_krp_019-bkkpn2}
   - {type: 'kr:non-cjk', offset: 888, content: ']', id: KR4f0003_krp_019-bkkkrnonc5}
@@ -571,6 +572,7 @@ markers:
   - {type: indent, offset: 1810, content: 　　, id: KR4f0003_krp_019-bkkind16}
   - {type: substitution, offset: 1811, original: 𤓰, replacement: 瓜, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19511}}
   - {type: punctuation, offset: 1812, content: (, id: KR4f0003_krp_019-bkkpn3}
+  - {type: voice, offset: 1812, length: 28, name: note, id: n2}
   - {type: substitution, offset: 1818, original: 𤓰, replacement: 瓜, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19511}}
   - {type: substitution, offset: 1821, original: 錄, replacement: 録, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20840}}
   - {type: substitution, offset: 1823, original: 黄, replacement: 黃, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20825}}
@@ -1397,4 +1399,4 @@ markers:
 
       ', id: KR4f0003_krp_019-bkkkrnewl286}
   back: []
-hash: sha256:dbfa54946804fe68263dd00126af01fd5f1bd150dbc2ed544ae1e8c571df839b
+hash: sha256:9e2df07f43c520f5a0b243c8db2a3e7578b782d33f1bab7c14a03add9544662d
