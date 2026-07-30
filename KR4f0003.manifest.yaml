@@ -23,7 +23,7 @@ assets:
   - {seq: 0, filename: KR4f0003_000.yaml, hash: 'sha256:48c9ec9a258eee4a84e53bf440311674cf81eb93c6c7c442ceca590a45c09d3c'}
   - {seq: 1, filename: KR4f0003_001.yaml, hash: 'sha256:7a7a53e4d0f9ea2d37e5b204b6b5262813d2cabbccad894127c303ceb2b306af'}
   - {seq: 2, filename: KR4f0003_002.yaml, hash: 'sha256:031766e1a3325a19ddeab7ffd90fa93263972a077ecdb4f476466d01fa423ece'}
-  - {seq: 3, filename: KR4f0003_003.yaml, hash: 'sha256:023c2e60a9aab29bec2514d58859a6c64c4be5f016026e2fbdecfd95f23e3640'}
+  - {seq: 3, filename: KR4f0003_003.yaml, hash: 'sha256:87257aabcfde54299bceef9c032e45f59847949ae2e5dd49f695d948acb322f9'}
   - {seq: 4, filename: KR4f0003_004.yaml, hash: 'sha256:210bf8d4aa75851eb038fa5cf53f2c2e636371535a7d907f77216c070ccfa5d3'}
   - {seq: 5, filename: KR4f0003_005.yaml, hash: 'sha256:fb4319a3d516520fb24c9c7bb86f79f7ca19f3920da39567bfadf80a1f495e1c'}
   - {seq: 6, filename: KR4f0003_006.yaml, hash: 'sha256:65834bfdc6155e17d93c656f345e3fb33573a035fba7c6d192e73f8f5f248714'}
@@ -60,7 +60,7 @@ assets:
   - {seq: 0, role: markers, filename: assets/KR4f0003_000.markers.yaml, hash: 'sha256:f35c6aa94ab6324df85511b3df0880fe658504f277780cc6b9b6f722fd6f0130'}
   - {seq: 1, role: markers, filename: assets/KR4f0003_001.markers.yaml, hash: 'sha256:ac23b9ce6f28073dee7a17240f2dc7cdb517cd3275ef58986c937ff2cdec05ea'}
   - {seq: 2, role: markers, filename: assets/KR4f0003_002.markers.yaml, hash: 'sha256:9213e76cf51703b08ec5ea6e2f79173e101c0051f9d5a75dfe7e81de0737f50d'}
-  - {seq: 3, role: markers, filename: assets/KR4f0003_003.markers.yaml, hash: 'sha256:8e7d8de0725fdbd491b318bac91d9c4b97251eb12d284de152bbb6f57fe48a94'}
+  - {seq: 3, role: markers, filename: assets/KR4f0003_003.markers.yaml, hash: 'sha256:5ee672e7563711fbd98725dd25e7490ca2a7cbefc66acab00a112194a42f9345'}
   - {seq: 4, role: markers, filename: assets/KR4f0003_004.markers.yaml, hash: 'sha256:c2c9bcac2a57a2e9a198f3373cbd46331f7fd49fc8c12092880c982813586922'}
   - {seq: 5, role: markers, filename: assets/KR4f0003_005.markers.yaml, hash: 'sha256:5f094fdf9703c867d4bacd3bbff1e5c5f935a2ef89f3415c8fa17c9a4ba5c616'}
   - {seq: 6, role: markers, filename: assets/KR4f0003_006.markers.yaml, hash: 'sha256:18dc594597d324744ab149e03c3a2a0abde7437bfa9c4d1a721f9f9957fb6ca9'}
@@ -129,8 +129,8 @@ table_of_contents:
     marker_id: KR4f0003_WYG_003-1a
     span:
     - body
-    - 0
-    - 7546
+    - 321
+    - 7867
   label: 庚戌年原序
   type: section
   level: 1
@@ -454,7 +454,7 @@ table_of_contents:
   label: 跋
   type: section
   level: 1
-hash: sha256:816fe7e514ff7f7fcae452a0fb2631d2bda3e2f061d775254d24f70a22687f65
+hash: sha256:312c039bd843ced89f882b6cedf5ef9a0685a416cc9cef80f5cac60caaba8400
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
